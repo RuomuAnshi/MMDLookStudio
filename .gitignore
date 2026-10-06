@@ -1,0 +1,10 @@
+._*
+.DS_Store
+__pycache__/
+*.py[cod]
+output/
+*.blend
+*.blend[0-9]
+.env
+.env.*
+docs/

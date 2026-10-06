@@ -1,0 +1,10 @@
+schema_version = "1.0.0"
+id = "zelda_daylight"
+version = "0.3.2"
+name = "MMD Look Studio"
+tagline = "Independent Eevee render presets for MMD characters and scenes"
+maintainer = "RuomuAnshi"
+type = "add-on"
+tags = ["Material", "Render", "Lighting"]
+blender_version_min = "5.2.0"
+license = ["SPDX:MIT"]
